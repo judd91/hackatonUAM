@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<levels>
+  <level id="mainLevel">
+    <object name="JakeTheDog" type="barra1" x="0" y="0" z="150"></object>
+    <object name="JakeTheDog" type="barra2" x="966" y="0" z="150"></object>
+    <object name="JakeTheDog" type="move_kirby" x="1000" y="200" z="100"></object>
+    <object name="JakeTheDog" type="move_ybrik" x="200" y="200" z="200"></object>
+    <object name="JakeTheDog" type="background" x="0" y="0" z="0"></object>
+    <object name="JakeTheDog" type="background" x="1536" y="0" z="0"></object>
+    <object name="JakeTheDog" type="dolar" x="500" y="500" z="0"></object>
+    <object name="keyboard" type="keyboard" x="0" y="0" ></object>
+    <object name="gamepad" type="gamepad" x="0" y="0" ></object>
+    <object name="factoryCoins" type="factoryCoins" x="0" y="0" ></object>
+    <object name="player1" type="player1" x="405" y="50" z="1000" ></object>
+    <object name="player2" type="player2" x="961" y="50" z="1000" ></object>
+  </level>
+  <level id="endLevel1">
+    <object name="JakeTheDog" type="background2" x="0" y="0" z="0"></object>
+  </level>
+  <level id="endLevel2">
+    <object name="JakeTheDog" type="background3" x="0" y="0" z="0"></object>
+  </level>
+</levels>
+
